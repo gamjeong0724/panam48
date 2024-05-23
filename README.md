@@ -22,7 +22,32 @@ panam48
 <br>
 Due to my own fault, I was transferred to another school in the 6th grade of elementary school. I can leave you with one shameful part. Even when I think about that part now, I think it can be really sad and sad. So I created a personal project called panam48.
 
+# <div align=center><h1>📚 STACKS</h1></div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+</div>
+
+### 백엔드
+- Java
+
+### 프론트엔드
+- HTML
+- CSS
+- JavaScript
+- React
+
+### 데이터베이스
+- MySQL
+
+### 프레임워크
+- Spring Boot
 
 
 
